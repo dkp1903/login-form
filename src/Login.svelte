@@ -186,7 +186,7 @@
 </style>
 
 <main>
-  <form>
+  <form netlify>
 
     <div class="field">
       <input type="email" name="email" class="input" placeholder=" " />
